@@ -2,7 +2,7 @@
 I'm a BCA graduate and full-stack developer specializing in the MERN stack. I build dynamic, responsive web applications with clean code and intuitive interfaces. Currently seeking opportunities to collaborate with talented teams, solve real problems, and grow as a developer.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/haroon-amin-7234b8320) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aminahroon699@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/haroon-amin-7234b8320) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aminharoon699@gmail.com) 
 
 ---
 
